@@ -136,7 +136,7 @@
 		"maintenance": 2,
 		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Economics"
-	}
+	},
   //Scenario Buildings
   //BNW Buildings 
   
@@ -153,3 +153,57 @@
 //		"requiredBuilding": "Market",
 //		"requiredTech": "Banking"
 //	},
+	//Special Buildings
+{
+		"name": "Diplomatic Marriage",
+		"culture": 1,
+		"happiness": 4,
+		"greatPersonPoints": {"Great Artist": 1},
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.","[+20]% Golden Age length"],
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "Monastery",
+		"cost": 0,
+		"culture": 2,
+		"faith": 2,
+		"cost": 40,
+		"requiredTech": "Calendar",
+		"hurryCostModifier": 40,
+		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+			"Hidden when religion is disabled","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Mosque",
+		"cost": 0,
+		"culture": 2,
+		"faith": 3,
+		"happiness": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"requiredTech": "Drama and Poetry",
+		"uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+	},
+	{
+		"name": "Pagoda",
+		"cost": 0,
+		"culture": 2,
+		"faith": 2,
+		"happiness": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"requiredTech": "Writing",
+		"uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+	},
+	{
+		"name": "Cathedral",
+		"cost": 0,
+		"faith": 1,
+		"culture": 3,
+		"happiness": 1,
+		"requiredTech": "Philosophy",
+		"specialistSlots": {"Artist": 1},
+		"uniques": ["Hidden when religion is disabled",,"May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+	}
+	]
