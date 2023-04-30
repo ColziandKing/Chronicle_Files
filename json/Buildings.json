@@ -159,7 +159,8 @@
 		"culture": 1,
 		"happiness": 4,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.","[+20]% Golden Age length"],
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
+			    "Limited to [1] per Civilization","[+20]% Golden Age length"],
 		"requiredTech": "Civil Service",
 	},
 	{
