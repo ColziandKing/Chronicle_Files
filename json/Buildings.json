@@ -19,7 +19,8 @@
 		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
 			"Provides [1] [Porcelain]","Provides [1] [Jewelry"],
-			"Hidden when religion is disabled","Destroyed when the city is captured"]
+			"Hidden when religion is disabled","Destroyed when the city is captured"
+		]
 	},
 	{
 		"name": "Mosque",
