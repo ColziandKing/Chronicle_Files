@@ -37,7 +37,6 @@
 	}
 	{
        "name": "Kampung",
-       "uniqueTo": "Majapahit",
        "terrainsCanBeBuiltOn": ["Coast","Lakes"],
        "production":1,
        "techRequired":"Optics",
@@ -47,7 +46,6 @@
    },
 	{
 		"name": "Idendo",
-		"uniqueTo": "Leisi",
 		"terrainsCanBeBuiltOn": ["Tundra","Snow"],
 		"food": 1,
 		"turnsToBuild": 6,
@@ -56,7 +54,6 @@
 	},
 	{
 		"name": "Jolopong",
-		"uniqueTo": "Sunda Empire",
 		"food": 1,
 		"production": 1,
 		"turnsToBuild": 7,
