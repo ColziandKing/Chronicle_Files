@@ -1,6 +1,7 @@
 [
 {
 		"name": "Diplomatic Marriage",
+		"cost": 1,
 		"culture": 1,
 		"happiness": 4,
 		"greatPersonPoints": {"Great Artist": 1},
@@ -11,7 +12,7 @@
 	},
 	{
 		"name": "Monastery",
-		"cost": 0,
+		"cost": 1,
 		"culture": 2,
 		"faith": 2,
 		"cost": 40,
@@ -26,7 +27,7 @@
 	},
 	{
 		"name": "Mosque",
-		"cost": 0,
+		"cost": 1,
 		"culture": 2,
 		"faith": 3,
 		"happiness": 1,
@@ -37,7 +38,7 @@
 	},
 	{
 		"name": "Pagoda",
-		"cost": 0,
+		"cost": 1,
 		"culture": 2,
 		"faith": 2,
 		"happiness": 2,
@@ -48,7 +49,7 @@
 	},
 	{
 		"name": "Cathedral",
-		"cost": 0,
+		"cost": 1,
 		"faith": 1,
 		"culture": 3,
 		"happiness": 1,
