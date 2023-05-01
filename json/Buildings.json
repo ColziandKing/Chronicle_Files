@@ -1,5 +1,4 @@
 [
-  //GK Buildings
   {
 		"name": "Stele",
 		"requiredBuilding": "Monument",
@@ -137,7 +136,6 @@
 		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Economics"
 	},
-	//Special Buildings
 {
 		"name": "Diplomatic Marriage",
 		"culture": 1,
