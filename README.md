@@ -3,3 +3,4 @@ So this mod is how civs will be more on equal with uniques not being unique and 
 
 ##Not anymore moved to Blackadder
 Dependent on Philosophy, Extra Buildings, & RSCiv Collection mod. Moved to Best Improvement Mod
+Royalloom Kingsman
