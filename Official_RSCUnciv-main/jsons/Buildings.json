@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Resource Multiplier",
+        "isNationalWonder": "true",
+        "cost": 500,
+        "uniques": ["Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Oil] produced","Double quantity of [Aluminum] produced","Double quantity of [Uranium] produced","Requires a [Palace] in this city","Will not be displayed in Civilopedia"],     
+    },
+    {
+		"name": "Mandir",
+		"cost": 0,
+		"culture": 3,
+		"faith": 3,
+        "production": 3,
+		"uniques": ["[+1 Culture, +1 Faith, +1 Production] from [Gold] tiles [in this city]", 
+			"[+1 Culture, +1 Faith, +1 Production] from [Silver] tiles [in this city]",
+            "[+1 Culture, +1 Faith, +1 Production] from [Stone] tiles [in this city]",
+			"Unbuildable", "Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+    {
+		"name": "Synagogue",
+		"cost": 0,
+		"culture": 3,
+		"faith": 3,
+        "science": 3,
+		"uniques": ["[+1 Culture, +1 Faith, +1 Science] from [Gems] tiles [in this city]", 
+			"[+1 Culture, +1 Faith, +Science] from [Iron] tiles [in this city]",
+            "[+1 Culture, +1 Faith, +Science] from [Marble] tiles [in this city]",
+			"Unbuildable", "Hidden when religion is disabled", "Destroyed when the city is captured"]
+	}
+]

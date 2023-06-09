@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Holy Place",
+		"replaces": "Landmark"
+		"culture": 3,
+		"gold": 1,
+		"food": 1,
+    "faith": 1,
+    "science": 1,
+		"production": 1,
+		"uniques": ["Gives a defensive bonus of [50]%","Great Improvement"]
+	},
+  {
+		"name": "Settlement",
+		"gold": 3,
+		"culture": 3,
+		"uniques": ["Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"[+1 Science] for each adjacent [Jungle]",
+			"[+1 Food] for each adjacent [Farm]",
+			"[+1 Gold] <after discovering [Currency]>",
+			"[+1 Culture] <after discovering [Civil Service]>"]
+	},	
+   {
+		"name": "Oracle",
+		"culture": 4,
+		"happiness": 4,
+		"uniques": ["Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"Provides [1] [Oil]",
+	   		"Provides [+2 Faith]",
+	}
+]

@@ -1,0 +1,128 @@
+[      
+	 {
+		"name": "Colziand",
+		"leaderName": "Raymond Sheen Caballero",
+		"adjective": ["Colziand"],
+                 "startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"startIntroPart1": "Oh Raymond! You who formed a nation of people for God to saved, glorious you are. Thanks be to the mighty Father.",
+                "startIntroPart2": "Will you once more rule the world for the Lord's desire.",
+		"declaringWar": "Hence, Forth!",
+		"attacked": "I'm dissapointed! Why declare destruction, is there no fun in peace and prosperity?",
+		"defeated": "Colziand is its people, me, and Him.",
+		"introduction": "Kumusta sa'inyo. O estranghero, saan ka galing?",
+		"neutralHello": "Oh greeting high above",
+		"hateHello": "You speak in pride, I don't wanna hear it",
+		"tradeRequest": "It appears that you have a golden interest of our goods",
+		"outerColor": [1,2,103],
+		"innerColor": [4,255,6], 
+		"uniqueName": "Cool Kings",
+	        "uniqueText": "Adopting new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
+		"uniques": ["+1] Movement <for all [All] units>", "[-40]% maintenance costs <for [All] units>", "[1] additional attacks per turn", "May withdraw before melee ([48]%)", "May capture killed [All] units", "Can move after attacking", "Can move immediately once bought", "No movement cost to pillage", "[+2] Sight <for [All] units>", "[+17]% Strength <vs [All] units>", "+[4] happiness from each type of luxury resource", "[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from every specialist [in all cities]", "All cities provide 1 copy of Diamond luxury resource",
+			    "Quantity of Resources gifted by City-States increased by [100]%", "City-State Influence degrades [100]% slower", "Resting point for Influence with City-States is increased by [100]", "Cities are razed [100] times as fast", "Influence of all other civilizations with all city-states degrades [100]% faster", "Units fight as though they were at full strength even when damaged", "Embarked units can defend themselves", "100% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "May convert Gems to Jewelry luxury resources",   
+			    "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.", "Can embark and move over Coasts and Oceans immediately", "+[100]% defensive strength for cities", "Visible to others", "May choose [3] additional belief(s) of any type when [founding] a religion", "Land units may cross [Mountain] tiles after the first [Worker] is earned", "Units ending their turn on [Mountain] tiles take [1] damage", ["Double quantity of [Incense] produced", "May convert Incense to Myrrh or Frankincense luxury resources", "[+100]% Natural religion spread [in all cities]"],
+			    
+		"cities": ["Colziane", "Cher-Hon Rishvas", "Rekle-Esieg", "Erion Faith", "Istanbul", "Paris", "Tokyo", "Aitea", "Israel", "Obrero", "DanTDM", "The Ghost & Molly McGee", "Kid Cosmic", "Wander Over Yonder"],
+          },
+	  {
+		"name": "Salumi",
+		"leaderName": "Sarita Sephira Saldrigal",
+		"adjective": ["Salumian"],
+		"startBias": ["Plain","Jungle"],
+  	        "preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Be welcomed, princesses. You lead the beatiful and joyful nation of Salumi, a country filled more women than men with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Salumi emerged to a great nation. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Salumi ought to help other, no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Salumi to achieve greatness.",
+		"startIntroPart2": "Princesses, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time?",
+
+		"declaringWar": "Prepare to lose your empire of opression!",
+		"attacked": "You will see how fruitless this will be for you. Wait and see.",
+		"defeated":  "I hope you treat my people good, don´t take away their happiness.",
+		"introduction":  "Greetings! This is Salumi, our wordeful land. Want a kiss?",
+		"neutralHello": "Hello There.",
+		"hateHello": "Assh, what do you want?",
+		"tradeRequest": "I  thought you might be intested in this...",
+
+	        "outerColor": [255,51,255],
+		"innerColor": [255,204,255],
+
+		"uniqueName": "Salumi Chocolate Love",
+		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>", "May choose [3] additional belief(s) of any type when [founding] a religion", "Receive a free Social Policy when you advance to the next era", "100% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "100% chance of capturing defeated Barbarian naval units and earning 25 Gold", "[+25]% [Science] [in annexed cities]",
+			   "[+5 Science, +5 Food, +5 Gold, +5 Production, +5 Culture, +5 Faith, +5 Happiness] from [All] tiles [in all cities]", "[+5] Range", "+[5] Movement for [All] units", "[2] additional attacks per turn", "Religion naturally spreads to cities [+50] tiles away", "All cities provide 1 copy of Terracotta luxury resource","[+1 Science] from every [Iron]", "[-10]% Culture cost of adopting new Policies", "[+100]% [Production] [in all cities]", "[+100]% [Food] [in all cities]", "[+100]% [Gold] [in all cities]",
+			   "100% chance of capturing defeated Barbarian naval units and earning 25 Gold", "Gifts of Gold to City-States generate [200]% more Influence", "Golden Age length increased by [100]%", "[-100]% tile improvement construction time", "Quantity of strategic resources produced by the empire +[100]%", "[-100]% unhappiness from population [in all cities]", "[+50]% [Science] [in all cities]", "[+50]% [Faith] [in all cities]", "[+50]% [Culture] [in all cities]", "May convert Gems to Jewelry luxury resources"],
+
+		"cities": ["Saludo", "Libro-Saldos", "Medellin", "Cali", "Villavicencio", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", "Sofia", "Leticia"]
+	},
+	{
+		"name": "Edinburgh",
+		"adjective": ["Edinburghensian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
+		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your head!",
+		"defeated": "Vile ruler, know that you 'won' this war in name only!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,102,102],
+		"cities": ["Edinburgh"],
+	},
+	{
+		"name": "Dublin",
+		"adjective": ["Dubliner"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
+		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Ireland!",
+		"defeated": "A lonely wind blows through the highlands today. A dirge for Ireland. Can you hear it?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [211,180,113],
+		"cities": ["Dublin"],
+	},
+	{
+		"name": "Auckland",
+		"adjective": ["Aucklander"],
+		"cityStateType": "Industrial",
+
+		"declaringWar": "War over peace? We shall fight!",
+		"attacked": "You'll suffer greatly when we win!",
+		"defeated": "May we live in your honor of victory over us",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,180,111],
+		"cities": ["Auckland", "Wellington"],
+	},
+	{
+		"name": "Fez",
+		"adjective": ["Fezian"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "War it must be!",
+		"attacked": "You scum!",
+		"defeated": "A defeat is a defeat.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [2,24,54],
+		"cities": ["Fez"],
+	},
+	{
+		"name": "Ife",
+		"adjective": ["Ife"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [174, 194, 185],
+		"cities": ["Ife"]
+	},
+	{
+		"name": "Budapest",
+		"adjective": ["Budapestian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [242, 92, 58],
+		"cities": ["Budapest"]
+	},
+	/*arxemlio and magic stuff like healer*/
+]

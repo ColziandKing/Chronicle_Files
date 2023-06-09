@@ -1,0 +1,18 @@
+[   
+   {
+        "name": "Hero",
+        "movementType": "Land"
+    },
+  {
+        "name": "Hero Water",
+        "movementType": "Water"
+    },
+    {
+        "name": "Ranged Hero",
+        "movementType": "Land"
+    },
+    {
+        "name": "Ranged Hero Water",
+        "movementType": "Water"
+    }
+ ]

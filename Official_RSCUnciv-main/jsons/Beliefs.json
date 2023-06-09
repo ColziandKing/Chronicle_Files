@@ -1,0 +1,37 @@
+[
+     {
+        "name": "Holy Trinity",
+        "type": "Pantheon",
+        "uniques": ["[+5 Culture, +5 Happiness, +5 Gold, +5 Faith, +5 Production, +5 Food, +5 Science]from [All] tiles [in all cities]"]
+    },
+   {
+        "name": "Mandir",
+        "type": "Follower",
+        "uniques": ["May buy [Mandir] buildings with [Faith] [in cities following this religion]"]
+    },
+   {
+        "name": "Synagogue",
+        "type": "Follower",
+        "uniques": ["May buy [Synagogue] buildings with [Faith] [in cities following this religion]"]
+    },
+ {
+        "name": "God is King",
+        "type": "Pantheon",
+        "uniques": ["[Palace] provides [+1 Culture, +1 Faith, +1 Gold, +1 Production, and +1 Science]"]
+    },
+     {
+        "name": "Earth Mother",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] for each [Copper], [Iron], and [Salt]"]
+    },
+     {
+        "name": "Sun and Tears of God",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food]  for each [Bananas], [Citrus], [Wheat]. [+2 Faith] for each [Gems], and [Pearls] resources"]
+    },
+     {
+        "name": "Secured Life",
+        "type": "Founder",
+        "uniques": ["[+2 Happiness] for every [6] global followers [in non-enemy foreign cities], [+40]% attacking Strength for cities"]
+    },
+] 
