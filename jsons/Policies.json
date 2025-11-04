@@ -900,6 +900,7 @@
 			{
 				"name": "Elite Forces",
 				"uniques": [
+					"Cities are razed [3] times as fast",
 					"[+25]% Strength <for [{Wounded} {Military}] units> <when attacking>",
 					"Instantly provides [1] [Level 1 Policy] <hidden from users>"
 				],
