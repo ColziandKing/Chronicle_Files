@@ -229,7 +229,7 @@
         "favoredReligion": "Tengriism",
 		"uniqueName": "Scourge of God",
 		"uniques": [
-			"Cannot build [Settler] units","[+1 Production] from every [Pasture]", "Cities are razed [3] times as fast", "Starts with [Animal Husbandry]", 
+			"Cannot build [Settler] units","[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]", 
 			"[2] free [Hunnic Horde] units appear <upon entering a new era> <after turn number [3]> <hidden from users>","May not puppet cities",
                     "[4] units cost no maintenance <hidden from users>",
 		],
