@@ -27,7 +27,7 @@
 		"uniqueName": "Hellenic League",
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 		"Comment [Gain a free [Palace] [in this city] <upon founding a city> (All your cities have a palace except annexed and puppeted cities)]",
-					"Gain a free [Palace] [in this city] <upon founding a city> <hidden from users>",],
+					"Gain a free [Palace] [in this city] <upon founding a city> <hidden from users>"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
@@ -230,7 +230,8 @@
 		"uniqueName": "Scourge of God",
 		"uniques": [
 			"Cannot build [Settler] units","[+1 Production] from every [Pasture]", "Cities are razed [3] times as fast", "Starts with [Animal Husbandry]", 
-			"Free [Settler] appears <upon entering a new era> <after turn number [3]> <hidden from users>","May not puppet cities",
+			"[2] free [Hunnic Horde] units appear <upon entering a new era> <after turn number [3]> <hidden from users>","May not puppet cities",
+                    "[4] units cost no maintenance <hidden from users>",
 		],
 		"cities": ["Attila's Court","New Sirmium","Nova Aquileia","Neo Metz"],
         "spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
