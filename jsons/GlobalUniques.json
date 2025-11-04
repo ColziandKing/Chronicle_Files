@@ -1,0 +1,40 @@
+{
+  "name": "Global uniques",
+  "uniques":
+  [
+		// Great Merchant Trade Mission Calculations
+		// https://civilization.fandom.com/wiki/Great_Merchant_(Civ5)#Formula
+	  "Adopt [Volunteer Army] <for [City-States] Civilizations> <upon entering the [Industrial era]> <hidden from users>",
+			"Gain a free [Granary] [in all cities] <upon entering the [Ancient era]> <hidden from users>",
+			"Gain a free [Market] [in all cities] <upon entering the [Classical era]> <hidden from users>",
+			"Gain a free [Castle] [in all cities] <during the [Medieval era]> <hidden from users>",
+			"Gain a free [University] [in all cities] <during the [Renaissance era]> <hidden from users>",
+			"[+2] Unit Supply per [4] population [in all cities]","Cities are razed [2] times as fast",
+			"[-2] Unit Supply per city", "Triggers a [Special Policy] event <upon entering the [Medieval era]>",
+	  "Triggers a [Special Policy] event <upon entering the [Industrial era]>",
+	        "Free [Foreign Legion] appears <for [City-States] Civilizations> <upon entering the [Industrial era]>",
+			"Adopt [Tradition] <upon entering the [Ancient era]> <hidden from users>",
+			"Adopt [Liberty] <upon entering the [Ancient era]> <hidden from users>",
+			"Adopt [Honor] <upon entering the [Ancient era]> <hidden from users>",
+			"Adopt [Piety] <upon entering the [Classical era]> <hidden from users> <after founding a Pantheon>",
+			"Adopt [Aesthetics] <upon entering the [Classical era]> <hidden from users>",
+			"Adopt [Patronage] <upon entering the [Classical era]> <hidden from users>",
+			"Adopt [Commerce] <upon entering the [Medieval era]> <hidden from users>",
+			"Adopt [Exploration] <upon entering the [Medieval era]> <hidden from users>",
+			"Adopt [Rationalism] <upon entering the [Renaissance era]> <hidden from users> <after founding a Pantheon>",
+			"Adopt [Voluntarism] <upon entering the [Industrial era]> <hidden from users>",
+			"Adopt [Humor] <upon entering the [Industrial era]> <hidden from users>",
+	  "\"Borrows\" city names from other civilizations in the game",
+		"[-11]% Gold from Great Merchant trade missions <before the [Ancient era]>",
+		"[+11]% Gold from Great Merchant trade missions <during the [Classical era]>",
+		"[+18]% Gold from Great Merchant trade missions <during the [Medieval era]>",
+		"[+24]% Gold from Great Merchant trade missions <during the [Renaissance era]>",
+		"[+28]% Gold from Great Merchant trade missions <during the [Industrial era]>",
+		"[+32]% Gold from Great Merchant trade missions <during the [Modern era]>",
+		"[+34]% Gold from Great Merchant trade missions <during the [Atomic era]>",
+		"[+37]% Gold from Great Merchant trade missions <during the [Information era]>",
+		"[+38]% Gold from Great Merchant trade missions <during the [Modern era]>",
+		"[+40]% Gold from Great Merchant trade missions <starting from the [Future era]>",
+            "[+200]% Production when constructing [Military] units [in all cities]",
+]
+}

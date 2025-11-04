@@ -1,0 +1,68 @@
+[
+	// Trade Route Updates
+	{
+		"columnNumber": 9,
+		"era": "Industrial era",
+		"techCost": 2777,
+		"buildingCost": 300,
+		"wonderCost": 750,
+		"techs": [
+			{
+				"name": "Archaeology",
+				"row": 2,
+				"prerequisites": ["Navigation","Architecture"],
+                "uniques": ["[+50]% weight to this choice for AI decisions"],
+				"quote": "'Those who cannot remember the past are condemned to repeat it.' - George Santayana"
+			},
+			{
+				"name": "Scientific Theory",
+				"row": 4,
+				"prerequisites": ["Architecture","Economics"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
+			},
+			{
+				"name": "Industrialization",
+				"row": 6,
+				"prerequisites": ["Economics"],
+                "uniques": ["[+50]% weight to this choice for AI decisions"],
+				"quote": "'Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology.' - Emily Greene Balch"
+			},
+			{
+				"name": "Rifling",
+				"row": 7,
+				"prerequisites": ["Economics","Metallurgy"],
+                "uniques": ["[-50]% weight to this choice for AI decisions"],
+				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
+			},
+			{
+				"name": "Military Science",
+				"row": 9,
+				"prerequisites": ["Metallurgy","Chemistry"],
+				"quote": "'Wars may be fought with weapons, but they are won by men. It is the spirit of the men who follow and of the man who leads that gains the victory.' - George S. Patton"
+			},
+			{
+				"name": "Fertilizer",
+				"row": 10,
+				"prerequisites": ["Chemistry"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'The nation that destroys its soil destroys itself.' - Franklin Delano Roosevelt"
+			}
+		]
+	},
+	{
+		"columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Agriculture",
+				"row": 6,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Triggers a [Special Policy] event","[1] free random researchable Tech(s) from the [Ancient era]"]
+			}
+		]
+	},
+]
