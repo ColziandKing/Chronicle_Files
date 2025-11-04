@@ -1,14 +1,14 @@
 [
     {
 		"name": "Greece",
-		"leaderName": "Pericles",
+		"leaderName": "Alexander",
 		"adjective": ["Greek"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Pericles",
+		"personality": "Alexander",
 
-		"startIntroPart1": "Pericles",
-		"startIntroPart2": "Will you?",
+		"startIntroPart1": "Great King Alexander, leader of the mighty Greek nation, you are truly blessed by the gods. In 480 BC, quarrelsome city-states such as Athens, Sparta, Thebes, found a way to join their forces, allowing Greece to defeat the mighty Persia in the 5th century BC, both on land and sea. Following their example, you lead a Greek coalition and finally struck down the Persian Empire in 331 BC. You conquered almost all the known world, and from Europe to Africa to India, you built an empire unmatched by any before it.",
+		"startIntroPart2": "Megalexandros, son of Zeus, will you ride Bucephalas again, to gift the world with the brightness of the Greek culture? Will your new empire shine through the ages of history?",
 		
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "As a matter of fact I too grow weary of peace.",
