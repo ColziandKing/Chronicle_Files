@@ -7,7 +7,10 @@
 		"improvement": "Quarry",
 		"improvementStats": {"production": 1},
 		"uniques": ["[+15]% Production when constructing [All] wonders [in this city]",
-					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>"]
+					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>",
+			"Generated on every [20] tiles <in [{Featureless} {Plains}] tiles> <in tiles without [Fresh Water]>",
+					"Generated on every [15] tiles <in [{Featureless} {Hill}] tiles>",
+					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>"]
 	},
 
 	// Policies: Ideology slot requirements
