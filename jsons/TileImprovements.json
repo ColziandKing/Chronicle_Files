@@ -1,4 +1,105 @@
 [
+	{
+		"name": "Farm",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Can be built outside your borders","Can also be built on tiles adjacent to fresh water",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+		"shortcutKey": "F"
+	},
+	{
+		"name": "Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Construction",
+		"uniques": ["Can be built outside your borders","[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "L"
+	},
+	{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": ["Can be built outside your borders","[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "M"
+	},
+	{
+		"name": "Trading post",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"uniques": ["Can be built outside your borders","[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "T"
+	},
+	{
+		"name": "Chateau",
+		"uniqueTo": "France",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 1,
+		"culture": 2,
+		"turnsToBuild":7,
+		"techRequired": "Chivalry",
+		"uniques": [
+		    "Can be built outside your borders",
+			"Must be next to [Luxury resource]",
+			"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Chateau] tiles>",
+			"Gives a defensive bonus of [50]%",
+			"[+2 Gold, +1 Culture] <after discovering [Flight]>",
+			"Cannot be built on [resource] tiles",
+			"Will not be replaced by automated units <hidden from users>"
+		]
+	},
+	{
+		"name": "Kasbah",
+		"uniqueTo": "Morocco",
+		"terrainsCanBeBuiltOn": ["Desert"],
+		"food": 1,
+		"production": 1,
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Chivalry",
+		"uniques": [
+			"Can be built outside your borders",
+			"Gives a defensive bonus of [50]%",
+			"Cannot be built on [resource] tiles",
+			"Will not be replaced by automated units <hidden from users>"
+		]
+	},
+	{
+		"name": "Landmark",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 1,
+		"turnsToBuild": 4,
+		"techRequired": "Archaeology",
+		"uniques": [
+			"[+1 Culture] <for every [Era number]>", // +1 Culture for each era of difference between the era of origin of the Antiquity Site and the current era
+			"Great Improvement",
+			"Can also be built on tiles adjacent to fresh water <hidden from users>",
+            "Can only be built to improve a resource <hidden from users>",
+			"Removes removable features when built <hidden from users>",
+            "Will not be replaced by automated units <hidden from users>",
+			"Remove [Antiquity Site] resources from this tile <hidden from users>",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Antiquity Dig Site","Can be built outside your borders",
+			"Only available <for [Archaeologist] units>",
+
+			// Archaeologist is consumed.
+			"Triggers a [Archaeological Dig - Destroy Unit] event <hidden from users>"
+		],
+		"civilopediaText": [
+			{ "text": "Landmarks are built from [Antiquity Site]s by [Archaeologist]s, consuming the unit." },
+			{ "separator": true },
+			{ "text": "Antiquity Site", "link": "Resource/Antiquity Site" },
+			{ "text": "Archaeologist", "link": "Unit/Archaeologist" }
+		]
+	},
 	{		"name": "Feitoria",
 		"uniqueTo": "Portugal",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -7,7 +108,7 @@
 		"techRequired": "Navigation",
 		"uniques": [
 			"[-1 Gold] <hidden from users>", // Counter-act the gold: 1
-			"Gives a defensive bonus of [50]%",
+			"Gives a defensive bonus of [50]%","Can be built outside your borders",
 			"Can only be built on [Coastal] tiles",
 			"Must be next to [Luxury resource]",
 			"Cannot be built on [resource] tiles <hidden from users>",
