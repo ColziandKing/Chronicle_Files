@@ -1286,15 +1286,65 @@
 		"presentation": "Alert",
 		"choices": [
 			{
-				"text": "Free Religion",
+				"text": "Educated Elite",
 				"uniques": [
-		 			"Adopt [Free Religion]",
+		 			"Adopt [Educated Elite]",
 				]
 			},
 			{
 				"text": "Religious Orders",
 				"uniques": [
 		 			"Adopt [Religious Orders]",
+				]
+			},
+			{
+				"text": "Free Trade",
+				"uniques": [
+		 			"Adopt [Free Trade]",
+				]
+			},
+		]
+	},
+	{
+		"name": "Woah Policy",
+		"text": "Choose special policy! Three times, and remember not to pick what you already chose.",
+		"presentation": "Alert",
+		"choices": [
+			{
+				"text": "Free Religion",
+				"uniques": [
+		 			"Adopt [Free Religion]",
+				]
+			},
+			{
+				"text": "Monasticism",
+				"uniques": [
+		 			"Adopt [Monasticism]",
+				]
+			},
+			{
+				"text": "Trade Unions",
+				"uniques": [
+		 			"Adopt [Trade Unions]",
+				]
+			},
+			{
+				"text": "Resource Contracts",
+				"uniques": [
+		 			"Adopt [Resource Contracts]",
+				]
+			}
+		]
+	},
+	{
+		"name": "Another Policy",
+		"text": "Choose special policy! Three times, and remember not to pick what you already chose.",
+		"presentation": "Alert",
+		"choices": [
+			{
+				"text": "World Expo",
+				"uniques": [
+		 			"Adopt [World Expo]",
 				]
 			},
 			{
