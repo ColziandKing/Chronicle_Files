@@ -201,7 +201,7 @@
 			"Preferred Ideology: Freedom"
 		],
 		"spyNames": ["Gasparo", "Giosafat", "Ambrogio", "Niccolo", "Marino", "Cesare", "Francesco", "Giovanni", "Bertolome", "Filomena"],
-		"cities": ["Venice","Thessaloniki"]
+		"cities": ["Venice","Thessaloniki","New Sirmium","Nova Aquileia"]
 	},
 	{
 		"name": "The Huns",
@@ -230,10 +230,10 @@
 		"uniqueName": "Scourge of God",
 		"uniques": [
 			"Cannot build [Settler] units","[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]", 
-			"[2] free [Hunnic Horde] units appear <upon entering a new era> <after turn number [3]> <hidden from users>","May not puppet cities",
+			"[2] free [Horse Archer] units appear <upon entering a new era> <after turn number [3]> <hidden from users>","May not puppet cities",
                     "[4] units cost no maintenance <hidden from users>",
 		],
-		"cities": ["Attila's Court","New Sirmium","Nova Aquileia","Neo Metz"],
+		"cities": ["Attila's Court","Neo Metz"],
         "spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
     },
 	{
