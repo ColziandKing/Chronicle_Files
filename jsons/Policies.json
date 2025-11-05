@@ -345,17 +345,6 @@
 				"row": 2,
 				"column": 3
 			},
-            {
-                "name": "Monasticism",
-                "uniques": [
-			"Gain a free [Garden] [in all cities]", "[+1 Faith] from every [Garden]",
-		],
-				"requires": [
-					"Mandate Of Heaven"
-				],
-                "row": 2,
-                "column": 5
-            },
 			{
 				"name": "Piety Complete",
 				"uniques": [
@@ -426,24 +415,9 @@
 				"column": 4
 			},
 			{
-				"name": "Trade Unions",
-				"uniques": [
-					"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns",
-                    "Allied City-States provide [Gold] equal to [+30]% of what they produce for themselves",
-					"Allied City-States provide [Food] equal to [+40]% of what they produce for themselves",
-				],
-				"requires": [
-					"Philantropy",
-					"Consulates"
-				],
-				"row": 2,
-				"column": 4
-			},
-			{
 				"name": "Merchant Confederacy", // Was Educated Elite
 				"requires": [
 					"Scholasticism",
-					"Trade Unions"
 				],
 				"uniques": [
 					"[+2 Gold] from each Trade Route <in [in City-State cities] cities>"
@@ -532,19 +506,6 @@
 				"column": 2
 			},
 			{
-				"name": "Educated Elite",
-				"uniques": [
-                                        "[+10]% [Production] [in all cities]",
-                    "Gain a free [Library] [in this city] <upon founding a city>",
-                    "Gain a free [Aqueduct] [in this city] <upon founding a city>",
-				],
-				"requires": [
-					"Free Thought"
-				],
-				"row": 3,
-				"column": 4
-			},
-			{
 				"name": "Rationalism Complete",
 				"uniques": [
 					"[1] Free Technologies",
@@ -631,16 +592,6 @@
 				"row": 3,
 				"column": 2
 			},
-            {
-                "name": "Resource Contracts",
-                "requires": ["Merchant Navy"],
-                "uniques": [
-		    "Influence of all other civilizations with all city-states degrades [25]% faster", "Triggers the following global alert: [Our influence with City-States has started dropping faster!]",
-                    "Free [Worker] appears <upon founding a city>",
-                ],
-                "row": 3,
-                "column": 5
-            },
 			{
 				"name": "Exploration Complete",
 				"uniques": [
@@ -708,17 +659,6 @@
 				"row": 2,
 				"column": 4
 			},
-            {
-                "name": "Free Trade",
-                "uniques": [
-                    "Retain [25]% of the happiness from a luxury after the last copy has been traded away",
-		],
-				"requires": [
-					"Entrepreneurship"
-				],
-                "row": 3,
-                "column": 2
-            },
 			{
 				"name": "Protectionism",
 				"uniques": [
@@ -821,16 +761,6 @@
 				"row": 2,
 				"column": 4
 			},
-            {
-                "name": "World Expo",
-                "requires": ["Cultural Exchange"],
-                "uniques": [
-                    "[+1 Happiness] from all [Culture] buildings <when below [-10] [Happiness]>",
-                    "[+33]% [Happiness] from every [Amphitheater]","[+33]% [Happiness] from every [Theatre]"
-                ],
-                "row": 3,
-                "column": 1
-            },
 			{
 				"name": "Artistic Genius",
 				"uniques": [
