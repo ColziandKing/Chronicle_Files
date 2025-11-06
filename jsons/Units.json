@@ -12,7 +12,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus","Unlocks at [Trapping]"],
+		"uniques": ["No defensive terrain bonus","Unlocks at [Animal Husbandry]"],
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
 	},
