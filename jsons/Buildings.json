@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Satrap's Court",
+		"replaces": "Courthouse",
+		"uniqueTo": "Persia",
+		"maintenance": 2,
+		"happiness": 2,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities","[+2 Gold] [in all cities connected to capital] <in cities with a [Bank]>"],
+		"requiredTech": "Mathematics"
+	},
+	{
 		"name": "Relocate Capital",
 		"cost": 5,
 		"hurryCostModifier": 5,
