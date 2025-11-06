@@ -1,5 +1,21 @@
 
 [
+	{
+		"name": "Horse Archer",
+		"unitType": "Archery",
+		"uniqueTo": "The Huns",
+		"replaces": "Chariot Archer",
+		"movement": 4,
+		"strength": 10,
+		"rangedStrength": 12,
+		"cost": 66,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus","Unlocks at [Trapping]"],
+		"promotions": ["Accuracy I"],
+		"attackSound": "arrow"
+	},
     {
         "name": "Seaxman",
         "replaces": "Longswordsman",
