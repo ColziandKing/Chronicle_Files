@@ -1569,8 +1569,8 @@
                     "[-25]% maintenance on road & railroads", "Improves movement speed on roads",
 			"Comment [Recommended for Order & Autocracy civs]",
                 ],
-                "row": 3,
-                "column": 4
+                "row": 2,
+                "column": 3
             },
 			{
 				"name": "Educated Elite",
