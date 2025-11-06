@@ -1563,6 +1563,15 @@
                 "row": 1,
                 "column": 5
             },
+            {
+                "name": "State Logistics",
+                "uniques": [
+                    "[-25]% maintenance on road & railroads", "Improves movement speed on roads",
+			"Comment [Recommended for Order & Autocracy civs]",
+                ],
+                "row": 3,
+                "column": 4
+            },
 			{
 				"name": "Educated Elite",
 				"uniques": [
