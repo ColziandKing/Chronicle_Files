@@ -958,7 +958,9 @@
 		"uniqueName": "Spirit of Adwa",
 		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
             "Can build [Pasture] improvements at a [+100]% rate",
-            "Can build [Farm] improvements at a [+100]% rate"],
+            "Can build [Farm] improvements at a [+100]% rate",
+            "[+1 Faith] from every [Wonder]",
+            "[+15 Culture] [in capital] <after discovering [Acoustics]>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
@@ -1168,7 +1170,7 @@
 		"uniqueText": "Resource diversity grants twice as much [Gold] for Portugal in [Trade Route]s.",
 		"uniques": [
             "[+33]% Production when constructing [Market] building [in your cities]",
-            "[+2 Science, +2 Production] from every [Seaport]",
+            "[+2 Science, +2 Production] from every [Feitoria]",
 			"[+100]% Gold from Great Merchant trade missions"
 		],
 		"spyNames": ["Francisco", "Gaspar", "Alvaro", "Bento", "Roberto", "Afonso", "Galeote", "Diogo", "Eliana", "Oriana"],
