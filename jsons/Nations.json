@@ -1206,6 +1206,7 @@
 		"innerColor": [40,179,79],
 		"uniqueName": "Gateway to Africa",
 		"uniques": [
+            "[+30]% Production when constructing [All] buildings [in all cities] <during the [Medieval era]>",
 			"[+1 Culture, +3 Gold] from each Trade Route", // Receives +3 Gold and +1 Culture for each Trade Route with a different civ or City-State.
 			// TODO: Trade Route owners receive +2 Gold for each Trade Route sent to Morocco.
 			"Preferred Ideology: Freedom"
@@ -1240,7 +1241,7 @@
 		"uniqueName": "Great Expanse",
 		"uniques": [
 			"Gain control over [8] tiles [in this city] <upon founding a city>",
-			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[+15]% Strength <for [Military] units> <in [Plains] tiles>",
 			// Start with Pathfinders instead of Warriors. While this works, it could possibly be exploited by buying Warriors before clicking end turn.
 			"[Warrior] units gain the [[Pathfinder] ability] promotion <before turn number [1]> <hidden from users>"
 		],
@@ -1279,7 +1280,7 @@
 		"uniques": [
 			"Caravans gain 50% extended range", // @see Unit/Caravan
 			"[+10]% Spread Religion Strength", // TODO: Your Trade Routes spread the home city's Religion twice as effectively
-			"[+100]% [Oil] resource production","[+1 Gold] from each Trade Route",
+			"[+100]% [Oil] resource production","[+1 Faith] from every [Stone]",
 			// TODO: Bazaar adds +1 Gold per incoming trade route (+1 for the owner of the trade route) https://civilization.fandom.com/wiki/Bazaar_(Civ5)
 		],
 		"spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"],
