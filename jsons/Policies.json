@@ -41,9 +41,6 @@
 				"uniques": [
 					"Provides a [Aqueduct] in your first [4] cities for free",
 				],
-				"requires": [
-					"Oligarchy"
-				],
 				"row": 2,
 				"column": 4
 			},
@@ -53,9 +50,6 @@
 					"[+10]% growth [in capital]",
 					"[+2 Food] [in capital]"
 				],
-				"requires": [
-					"Legalism"
-				],
 				"row": 3,
 				"column": 2
 			},
@@ -63,9 +57,6 @@
 				"name": "Monarchy",
 				"uniques": [
 					"[+1 Gold, +1 Happiness] per [2] population [in capital]"
-				],
-				"requires": [
-					"Legalism"
 				],
 				"row": 3,
 				"column": 4
@@ -75,9 +66,6 @@
                 "uniques": [
                    "[+1 Happiness, +1 Culture] from every [Wonder]"
                 ],
-				"requires": [
-					"Legalism"
-				],
                 "row": 3,
                 "column": 6
             },
@@ -132,7 +120,6 @@
                     "[+50]% Production when constructing [Settler] units [in capital]",
                     "Free [Settler] appears"
                 ],
-                "requires": ["Republic"],
                 "row": 2,
                 "column": 1
             },
@@ -142,7 +129,6 @@
                     "Each city founded increases culture cost of policies [33]% less than normal",
                     "Empire enters golden age"
                 ],
-                "requires": ["Citizenship"],
                 "row": 2,
                 "column": 3
             },
@@ -153,7 +139,6 @@
                     "[-5]% Unhappiness from [Population] [in all non-occupied cities]",
                     "[-100]% weight to this choice for AI decisions"
                 ],
-                "requires": ["Citizenship"],
                 "row": 2,
                 "column": 5
             },
@@ -162,7 +147,6 @@
 				"uniques": [
                     "[+1 Production, +1 Food] per [2] population [in all cities]",
 				],
-                "requires": ["Representation"],
 				"row": 3,
 				"column": 3
 			},
@@ -215,7 +199,6 @@
                     "[+50]% XP gained from combat <for [Military] units>",
 			    "All newly-trained [relevant] units [in this city] receive the [March] promotion",
                 ],
-                "requires": ["Warrior Code"],
                 "row": 2,
                 "column": 2
             },
@@ -224,7 +207,6 @@
                 "uniques": [
                     "[+1 Happiness, +2 Culture] [in all cities with a garrison]"
                 ],
-                "requires": ["Discipline"],
                 "row": 2,
                 "column": 4
             },
@@ -233,7 +215,6 @@
             "uniques": [
                 "[-50]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+2 Happiness, +1 Production] [in all cities with a garrison]"
             ],
-                "requires": ["Military Tradition"],
             "row": 3,
             "column": 2
         },
@@ -246,7 +227,6 @@
                     "[+1 Happiness] from every [Arsenal]",
                     "[+1 Happiness] from every [Military Base]"
                 ],
-                "requires": ["Military Caste"],
                 "row": 3,
                 "column": 4
             },
@@ -302,9 +282,6 @@
 					"[+25]% [Gold] from every [Temple]",
 					"[+3 Gold] from every [Holy site]"
 				],
-				"requires": [
-					"Organized Religion"
-				],
 				"row": 2,
 				"column": 1
 			},
@@ -313,9 +290,6 @@
 				"uniques": [
 					"Gain a free [Enhancer] belief <after founding a religion>", // If you founded a religion, gain a bonus Reformation belief.
 					"Comment [Allows adopting [Reformation] Beliefs into your Religion]"
-				],
-				"requires": [
-					"Religious Tolerance"
 				],
 				"row": 3,
 				"column": 3,
@@ -338,9 +312,6 @@
 				"uniques": [
 					// TODO: Cities with a majority religion also get the Pantheon belief bonus of the second most popular religion
 					"[-10]% Culture cost of adopting new Policies"
-				],
-				"requires": [
-					"Organized Religion"
 				],
 				"row": 2,
 				"column": 3
@@ -388,9 +359,6 @@
 				"uniques": [
 					"Allied City-States provide [Science] equal to [25]% of what they produce for themselves"
 				],
-				"requires": [
-					"Philantropy"
-				],
 				"row": 2,
 				"column": 2
 			},
@@ -399,9 +367,6 @@
 				"uniques": [
 					"[+100]% resources gifted by City-States",
 					"[+50]% Happiness from luxury resources gifted by City-States"
-				],
-				"requires": [
-					"Scholasticism"
 				],
 				"row": 3,
 				"column": 2
@@ -416,9 +381,6 @@
 			},
 			{
 				"name": "Merchant Confederacy", // Was Educated Elite
-				"requires": [
-					"Scholasticism",
-				],
 				"uniques": [
 					"[+2 Gold] from each Trade Route <in [in City-State cities] cities>"
 				],
@@ -476,9 +438,6 @@
 					"[+1 Science] from every [Trading post]",
 					"[+17]% [Science] from every [University]"
 				],
-				"requires": [
-					"Humanism"
-				],
 				"row": 2,
 				"column": 4
 			},
@@ -486,9 +445,6 @@
 				"name": "Sovereignty",
 				"uniques": [
 					"[+1 Gold] from all [Science] buildings"
-				],
-				"requires": [
-					"Secularism"
 				],
 				"row": 2,
 				"column": 2
@@ -498,9 +454,6 @@
 				"uniques": [
 					"Science gained from research agreements [+50]%",
 					"[-100]% weight to this choice for AI decisions"
-				],
-				"requires": [
-					"Sovereignty"
 				],
 				"row": 3,
 				"column": 2
@@ -558,9 +511,6 @@
 					"[Great Admiral] is earned [+50]% faster",
 					"Comment [[Great Admiral] gains [2] movement]"
 				],
-				"requires": [
-					"Naval Tradition"
-				],
 				"row": 2,
 				"column": 4
 			},
@@ -573,10 +523,6 @@
 					"[+4 Production, +4 Culture] from every [East India Company]",
 			    "All newly-trained [relevant] units [in this city] receive the [Supply] promotion"
 				],
-				"requires": [
-					"Maritime Infrastructure",
-					"Naval Tradition"
-				],
 				"row": 2,
 				"column": 2
 			},
@@ -585,9 +531,6 @@
 				"uniques": [
 					"Gain a free [Governor's Mansion] [in this city] <upon founding a city> <on foreign continents>",
 					"[+2 Gold] from each Trade Route" // TODO: +4 Gold from all your Sea Trade Routes
-				],
-				"requires": [
-					"Merchant Navy"
 				],
 				"row": 3,
 				"column": 2
@@ -653,9 +596,6 @@
 					"[+1 Science] from every [Bank]",
 					"[+1 Science] from every [Stock Exchange]"
 				],
-				"requires": [
-					"Mercenary Army"
-				],
 				"row": 2,
 				"column": 4
 			},
@@ -663,10 +603,6 @@
 				"name": "Protectionism",
 				"uniques": [
 					"[+2] Happiness from each type of luxury resource"
-				],
-				"requires": [
-					"Entrepreneurship",
-					"Mercantilism"
 				],
 				"row": 3,
 				"column": 4
@@ -679,9 +615,6 @@
 				],
 				"row": 2,
 				"column": 2,
-				"requires": [
-					"Wagon Trains"
-				]
 			},
 			{
 				"name": "Commerce Complete",
@@ -740,10 +673,6 @@
 					"[+33]% [Culture] [in all cities with a world wonder]",
 					"Empire enters golden age"
 				],
-				"requires": [
-					"Cultural Centers",
-					"Fine Arts"
-				],
 				"row": 2,
 				"column": 2
 			},
@@ -754,9 +683,6 @@
 					"[+10]% [Culture] from every [Museum]",
 					"[+10]% [Culture] from every [Opera House]",
 					"[+10]% [Culture] from every [Broadcast Tower]"
-				],
-				"requires": [
-					"Fine Arts"
 				],
 				"row": 2,
 				"column": 4
@@ -774,9 +700,6 @@
                     "[+3 Science] from every [Great Work of Music]",
                     "[+3 Science] from every [Great Work of Writing]",
                     "[+2 Science] from every [Landmark]"
-				],
-				"requires": [
-					"Flourishing of the Arts"
 				],
 				"row": 3,
 				"column": 4
