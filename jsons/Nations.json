@@ -1254,7 +1254,7 @@
 		"uniqueName": "Gateway to Africa",
 		"uniques": [
             "[+30]% Production when constructing [All] buildings [in all cities] <during the [Medieval era]>",
-			"[+1 Culture, +3 Gold] from each Trade Route", // Receives +3 Gold and +1 Culture for each Trade Route with a different civ or City-State.
+			"[+2 Culture, +3 Gold] from each Trade Route", // Receives +3 Gold and +1 Culture for each Trade Route with a different civ or City-State.
 			// TODO: Trade Route owners receive +2 Gold for each Trade Route sent to Morocco.
 			"Preferred Ideology: Freedom"
 		],
