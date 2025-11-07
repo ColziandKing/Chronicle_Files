@@ -1210,9 +1210,9 @@
 		"innerColor": [167,52,31],
 		"uniqueName": "Spice Islanders",
 		"uniques": [
-			"Provides [1] [Cloves] <after turn number [5]> <upon founding a city> <on foreign continents>",
-			"Provides [1] [Nutmeg] <after turn number [5]> <upon founding a city> <on foreign continents>",
-			"Provides [1] [Pepper] <after turn number [5]> <upon founding a city> <on foreign continents>",
+			"Provides [2] [Cloves] <upon founding a city> <on foreign continents>",
+			"Provides [2] [Nutmeg] <upon founding a city> <on foreign continents>",
+			"Provides [2] [Pepper] <upon founding a city> <on foreign continents>",
 					"Free [Kris Swordsman] appears <upon founding a city>",
 			"Preferred Ideology: Freedom"
 		],
