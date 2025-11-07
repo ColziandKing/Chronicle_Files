@@ -23,7 +23,7 @@
 
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Eastern Orthodoxy",
 		"uniqueName": "Hellenic League",
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
             "Free [Companion Cavalry] appears <upon discovering [Horseback Riding] technology>",
@@ -825,7 +825,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dutch East India Company",
-		"uniques": ["Retain [50]% of the happiness from a luxury after the last copy has been traded away","[+1 Gold, +1 Production] from every [Plantation]"],
+		"uniques": ["Retain [50]% of the happiness from a luxury after the last copy has been traded away","[+1 Gold, +1 Production] from every [Plantation]","[+2] Happiness from each type of luxury resource"],
 		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "The Hague", "Haarlem", "Arnhem", "Zutphen", "Maastricht", "Tilburg", "Eindhoven", "Dordrecht", "Leiden", "'s Hertogenbosch", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Venlo", "Uden", "Grave", "Delft", "Gouda", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
         "spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr. Grijs", "Willem", "Thijs", "Neef"]
     },
@@ -924,6 +924,10 @@
 		"uniqueName": "Druidic Lore",
 		"uniques": ["[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
 			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>",
+            "[+2 Culture, +2 Science, +2 Production] from every [Writer Guild]",
+            "[+2 Culture, +2 Science, +2 Production] from every [Artist Guild]",
+            "[+2 Culture, +2 Science, +2 Production] from every [Musician Guild]",
+            "[+33]% Great Person generation [in capital]",
 			"Gain a free [Walls] [in capital] <upon discovering [Mining] technology>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
 			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
