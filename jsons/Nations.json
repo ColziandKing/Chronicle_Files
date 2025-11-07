@@ -1176,7 +1176,7 @@
 		"uniqueName": "Mare Clausum",
 		"uniqueText": "Resource diversity grants twice as much [Gold] for Portugal in [Trade Route]s.",
 		"uniques": [
-            "[+33]% Production when constructing [Market] building [in your cities]",
+            "[+33]% Production when constructing [Market] buildings [in your cities]",
             "[+2 Science, +2 Production] from every [Feitoria]",
 			"[+100]% Gold from Great Merchant trade missions"
 		],
