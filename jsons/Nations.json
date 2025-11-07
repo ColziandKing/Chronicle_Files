@@ -1430,7 +1430,7 @@
         "uniques": [
 			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			"Comment [[Caravan]s get double movement in [{Forest} {Jungle}]]", // @see Unit/Caravans and Promotion/The Great Warpath
-			"[+1 Production] [in the capital] ",
+			"Gain [150] [Production] <in cities with a [Longhouse]>",
 			"Preferred Ideology: Freedom"
 			// TODO: Longhouse allows Production to be moved from this city along trade routes inside your civilization
 		],
