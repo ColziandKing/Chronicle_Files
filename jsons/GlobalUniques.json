@@ -4,10 +4,14 @@
   [
 		// Great Merchant Trade Mission Calculations
 		// https://civilization.fandom.com/wiki/Great_Merchant_(Civ5)#Formula
-			"Gain a free [Granary] [in all cities] <during the [Ancient era]> <hidden from users>",
-			"Gain a free [Market] [in all cities] <during the [Classical era]> <hidden from users>",
-			"Gain a free [Castle] [in all cities] <during the [Medieval era]> <hidden from users>",
-			"Gain a free [University] [in all cities] <during the [Renaissance era]> <hidden from users>",
+			"[+20]% Production when constructing [Granary] buildings [in your cities] <after [Ancient era]> <hidden from users>",
+			"[+20]% Production when constructing [Market] buildings [in your cities] <after [Classical era]> <hidden from users>",
+			"[+20]% Production when constructing [Castle] buildings [in your cities] <after [Medieval era]> <hidden from users>",
+			"[+20]% Production when constructing [University] buildings [in your cities] <during the [Renaissance era]> <hidden from users>",
+			"[+20]% Production when constructing [Military Academy] buildings [in your cities] <during the [Industrial era]> <hidden from users>",
+			"[+20]% Production when constructing [Broadcast Tower] buildings [in your cities] <after [Modern era]> <hidden from users>",
+			"[+20]% Production when constructing [Medical Lab] buildings [in your cities] <during the [Atomic era]> <hidden from users>",
+			"[+20]% Production when constructing [Bomb Shelter] buildings [in your cities] <during the [Information era]> <hidden from users>",
 			"[+2] Unit Supply per [4] population [in all cities]",
 			"[-3] Unit Supply per city", 
 	  "Triggers a [Woah Policy] event <upon entering the [Medieval era]>",
