@@ -280,7 +280,7 @@
 			{
 				"name": "Theocracy",
 				"uniques": [
-			                "Gain a free [Founder] belief <upon founding a religion>",
+			                "Gain a free [Founder] belief <upon founding a Religion>",
 					"[+25]% [Gold] from every [Temple]",
 					"[+3 Gold] from every [Holy site]"
 				],
@@ -290,7 +290,7 @@
 			{
 				"name": "Reformation",
 				"uniques": [
-					"Gain a free [Enhancer] belief <after founding a religion>", // If you founded a religion, gain a bonus Reformation belief.
+					"Gain a free [Enhancer] belief <after founding a Religion>", // If you founded a religion, gain a bonus Reformation belief.
 					"Comment [Allows adopting [Reformation] Beliefs into your Religion]"
 				],
 				"row": 3,
