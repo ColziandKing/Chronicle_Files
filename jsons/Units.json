@@ -9,10 +9,10 @@
 		"strength": 10,
 		"rangedStrength": 12,
 		"cost": 66,
-		"requiredTech": "The Wheel",
+		"requiredTech": "Animal Husbandry",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus","Unlocks at [Animal Husbandry]"],
+		"uniques": ["No defensive terrain bonus"],
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
 	},
