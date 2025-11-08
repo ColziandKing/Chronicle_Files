@@ -88,7 +88,8 @@
         "innerColor": [98,10,210],
         "uniqueName": "Monument Builders",
         "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]","Starts with [Monumentalism] adopted",
-					"Provides a [Burial Tomb] in your first [5] cities for free <upon discovering [Philosophy] technology>"],
+			        "Gain [150]-[250] [Science] <upon discovering [Writing] technology>",
+					"Provides a [Burial Tomb] in your first [5] cities for free <upon discovering [Masonry] technology>"],
         "cities": [
             "Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Akhetaten","Hieraconpolis","Abydos",
             "Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis","Mendes",
