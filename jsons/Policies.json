@@ -267,18 +267,20 @@
 				"row": 1,
 				"column": 2
 			},
-			{
-				"name": "Mandate Of Heaven",
-				"uniques": [
-					"[Faith] cost of purchasing items in cities [-20]%" // TODO: Make this not applicable to Great People
-				],
-				"row": 1,
-				"column": 5
-			},
+            {
+                "name": "Religious Orders",
+                "uniques": [
+                    "[Faith] cost of purchasing items in cities [-50]%",
+			"[+50]% Natural religion spread [in City-State cities]",
+			"Gain a free [Follower] belief <after founding a Religion>",
+                ],
+                "row": 1,
+                "column": 5
+            },
 			{
 				"name": "Theocracy",
 				"uniques": [
-			                "Gain a free [Follower] belief <after founding a religion>",
+			                "Gain a free [Founder] belief <upon founding a religion>",
 					"[+25]% [Gold] from every [Temple]",
 					"[+3 Gold] from every [Holy site]"
 				],
@@ -1475,17 +1477,15 @@
 			"Scientific": -10
 		},
 		"policies": [
-            {
-                "name": "Religious Orders",
-                "uniques": [
-                    "[Faith] cost of purchasing items in cities [-50]%",
-			"[+50]% Natural religion spread [in City-State cities]",
-			"Gain a free [Founder] belief <upon founding a Religion>",
-			"Comment [Recommended for Freedom & Autocracy civs]",
-                ],
-                "row": 1,
-                "column": 5
-            },
+			{
+				"name": "Mandate Of Heaven",
+				"uniques": [
+					"[Faith] cost of purchasing items in cities [-20]%", // TODO: Make this not applicable to Great People
+			"Comment [Recommended for Freedom & Autocracy civs]"
+				],
+				"row": 1,
+				"column": 5
+			},
             {
                 "name": "State Logistics",
                 "uniques": [
