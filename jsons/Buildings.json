@@ -89,7 +89,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"requiredTech": "Calendar",
-		"uniques": ["Gain a free [Pantheon] belief"],
+		"uniques": ["Gain a free [Pantheon] belief <before founding a Religion>"],
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},
     {
