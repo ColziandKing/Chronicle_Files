@@ -9,7 +9,7 @@
 		"strength": 10,
 		"rangedStrength": 12,
 		"cost": 66,
-		"requiredTech": "Animal Husbandry",
+		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus"],
