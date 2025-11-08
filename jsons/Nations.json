@@ -1210,13 +1210,11 @@
 		"innerColor": [167,52,31],
 		"uniqueName": "Spice Islanders",
 		"uniques": [
-			"Provides [2] [Cloves] <upon founding a city> <on foreign continents>",
-			"Provides [2] [Nutmeg] <upon founding a city> <on foreign continents>",
-			"Provides [2] [Pepper] <upon founding a city> <on foreign continents>",
+					"Gain a free [Candi] <upon founding a city> <on foreign continents>",
 					"Free [Kris Swordsman] appears <upon founding a city>",
 			"Preferred Ideology: Freedom"
 		],
-		"uniqueText": "The first 3 cities founded on continents other than where Indonesia started each provide 1 copy of [Cloves], [Pepper], and [Nutmeg].",
+		"uniqueText": "The first 3 cities founded on continents other than where Indonesia started each provide 2 copies of [Cloves], [Pepper], or [Nutmeg].",
 		"spyNames": ["Adityawarman", "Airlangga", "Citra", "Halayudha", "Jayakatwang", "Lingga", "Mahendradatta", "Prapana", "Raden", "Davi"],
 		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
 			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
