@@ -109,7 +109,7 @@
 		"uniques": [
 			"[-1 Gold] <hidden from users>", // Counter-act the gold: 1
 			"Gives a defensive bonus of [50]%","Can be built outside your borders",
-			"Can only be built on [Coastal] tiles",
+			"Can only be built on [{Coastal} {City-State}] tiles",
 			"Must be next to [Luxury resource]",
 			"Cannot be built on [resource] tiles <hidden from users>",
 			"Unavailable <within [4] tiles of a [Feitoria]> <hidden from users>", // Can't double-tap into the same resource
