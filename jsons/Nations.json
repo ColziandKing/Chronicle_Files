@@ -87,7 +87,7 @@
         "outerColor": [ 231, 213, 0],
         "innerColor": [98,10,210],
         "uniqueName": "Monument Builders",
-        "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]","[+15]% Production when constructing [Archery] units [in all cities]",
+        "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]","Starts with [Monarchy] adopted",
 					"Provides a [Burial Tomb] in your first [5] cities for free <upon discovering [Philosophy] technology>"],
         "cities": [
             "Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Akhetaten","Hieraconpolis","Abydos",
