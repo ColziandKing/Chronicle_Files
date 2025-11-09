@@ -72,18 +72,40 @@
 	},
 	{
 		"name": "Galley",
+		"replaces": "Trireme",
 		"unitType": "Melee Water",
-		"movement": 3,
-		"strength": 7,
+		"uniqueTo": "Denmark",
+		"movement": 6,
+		"strength": 10,
 		"cost": 40,
-		"uniques": ["Cannot enter ocean tiles",
+		"uniques": [
 			"Never appears as a Barbarian unit <hidden from users>",
-			"Can move immediately once bought",
-			"Only available <for [City-States] Civilizations>"],
-		"upgradesTo": "Trireme",
+			"Can move after attacking", "[1] additional attacks per turn",
+                    "[2] free [Hand-Axe] units appear <by consuming this unit>",
+            "[+33]% Strength <vs cities> <when attacking>"],
+		"upgradesTo": "Galleass",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
 		//Barbarian unique naval unit, weaker and slower than Trireme.
+	},
+	{
+		"name": "Hand-Axe",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "Denmark",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength": 10,
+		"range": 2,
+		"cost": 56,
+		"uniques": [
+			"Never appears as a Barbarian unit <hidden from users>",
+			"Can move immediately once bought","[1] additional attacks per turn",
+            ],
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"attackSound": "nonmetalhit"
 	},
     {
         "name": "Koa",
@@ -114,37 +136,6 @@
         ],
         "movement": 4
     },
-    {
-        "name": "Herskip",
-        "uniqueTo": "Barbarians",
-        "unitType": "Melee Water",
-        "movement": 6,
-        "strength": 10,
-        "cost": 45,
-        "requiredTech": "Sailing",
-        "uniques": [
-            "Can move after attacking",
-                    "[2] free [Swordsman] units appear <by consuming this unit>",
-            "[+33]% Strength <vs cities> <when attacking>"
-        ],
-        "upgradesTo": "Caravel",
-        "obsoleteTech": "Astronomy",
-        "attackSound": "nonmetalhit"
-    },
-	{
-		"name": "Longship",
-		"unitType": "Melee Water",
-		"replaces": "Galleass",
-		"uniqueTo": "Denmark",
-		"movement": 4,
-		"strength": 16,
-		"cost": 107,
-		"requiredTech": "Compass",
-		"obsoleteTech": "Navigation",
-		"upgradesTo": "Privateer",
-		"uniques": ["Can move after attacking", "[1] additional attacks per turn"],
-		"attackSound": "metalhit"
-	},
     {
         "name": "Pioneer",
         "uniqueTo": "America",
