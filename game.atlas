@@ -229,7 +229,7 @@ ReligionIcons/Orthodoxy
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pioneer
+PolicyBranchIcons/Expansion 
   rotate: false
   rotate: false
   xy: 1940, 280
@@ -680,7 +680,7 @@ BuildingIcons/Ajagwar
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Frontier Outpost 
+BuildingIcons/Alcazar
   rotate: false
   xy: 1292, 1940
   size: 100, 100
@@ -1191,7 +1191,7 @@ BuildingIcons/Fale Tele
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Feitoria
+BuildingIcons/Frontier Outpost 
   rotate: false
   xy: 1084, 212
   size: 100, 100
@@ -2353,7 +2353,7 @@ UnitIcons/Bounty Hunter
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Buffalo Runner
+UnitIcons/Pioneer
   rotate: false
   xy: 544, 1076
   size: 100, 100
