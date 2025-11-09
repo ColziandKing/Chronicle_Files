@@ -270,7 +270,6 @@
             {
                 "name": "Religious Orders",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-50]%",
 			"[+50]% Natural religion spread [in City-State cities]",
 			"Gain a free [Follower] belief <after founding a Religion>",
                 ],
