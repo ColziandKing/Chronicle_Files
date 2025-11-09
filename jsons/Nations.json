@@ -529,7 +529,7 @@
 
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Achaemenid Legacy",
-		"uniques": ["[+50]% Golden Age length", "[+2] Movement <for [All] units> <during a Golden Age>", "[+20]% Strength <for [All] units> <during a Golden Age>", "Free [Persian Immortal] appears <during We Love The King Day>", "Free [Persian Immortal] appears <upon expending a [Immortal] unit>"],
+		"uniques": ["[+50]% Golden Age length", "[+2] Movement <for [All] units> <during a Golden Age>", "[+20]% Strength <for [All] units> <during a Golden Age>", "Free [Persian Immortal] appears <during We Love The King Day>", "Free [Persian Immortal] appears <upon expending a [Persian Immortal] unit>"],
 		"cities": ["Persepolis","Parsagadae","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
 			"Ghulaman","Zohak","Istakhr","Jinjan","Borazjan","Herat","Dakyanus","Bampur","Turengtepe","Rey","Shiraz",
 			"Thuspa","Hasanlu","Gabae","Merv","Behistun","Kandahar","Altintepe","Bunyan","Charsadda","Uratyube",
