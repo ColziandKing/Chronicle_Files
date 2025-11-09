@@ -1,6 +1,20 @@
 
 [
 	{
+		"name": "Persian Immortal",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Persia",
+		"movement": 2,
+		"strength": 15,
+		"cost": 66,
+		"requiredTech": "Bronze Working",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions":["[Persian Immortal] ability"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Horse Archer",
 		"unitType": "Archery",
 		"uniqueTo": "The Huns",
