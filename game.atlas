@@ -229,7 +229,7 @@ ReligionIcons/Orthodoxy
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Expansion
+UnitIcons/Pioneer
   rotate: false
   rotate: false
   xy: 1940, 280
@@ -680,7 +680,7 @@ BuildingIcons/Ajagwar
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Alcazar
+BuildingIcons/Frontier Outpost 
   rotate: false
   xy: 1292, 1940
   size: 100, 100
@@ -2976,7 +2976,7 @@ UnitIcons/Gizail Mirkee
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sherden Warrior
+UnitIcons/Koa
   rotate: false
   xy: 4, 1840
   size: 200, 200
