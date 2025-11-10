@@ -778,7 +778,7 @@ BuildingIcons/Ball Court
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Ballawinne Quarry
+BuildingIcons/Falu Gruva
   rotate: false
   xy: 544, 1616
   size: 100, 100
@@ -3073,7 +3073,7 @@ BuildingIcons/Homeland
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Horse Pen
+BuildingIcons/Quara U'y
   rotate: false
   xy: 220, 976
   size: 100, 100
@@ -3234,7 +3234,7 @@ BuildingIcons/Kral Düşərgəsi
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Kumemura
+BuildingIcons/Dojo
   rotate: false
   xy: 976, 976
   size: 100, 100
@@ -3360,7 +3360,7 @@ BuildingIcons/Mead Hall
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Medialuna
+BuildingIcons/Hippodrome
   rotate: false
   xy: 1408, 760
   size: 100, 100
@@ -5711,7 +5711,7 @@ BuildingIcons/Sierra Leone Company
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Siršini
+BuildingIcons/Plaza de Toros
   rotate: false
   xy: 1300, 868
   size: 100, 100
