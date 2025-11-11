@@ -1104,7 +1104,7 @@
 				"uniques": [
 					"[3] population [in this city] <upon founding a city>",
 					"[-2] population in a random city <upon founding a city>",
-					"[-1] population [in all cities]>",
+					"[-1] population [in all cities]",
 					"Instantly provides [1] [Level 2 Policy] <hidden from users>",
 					"Instantly consumes [1] [Level 1 Policy] <hidden from users>",
 					"Only available <when above [1] [Level 1 Policy]> <hidden from users>"
