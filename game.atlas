@@ -1037,7 +1037,7 @@ BuildingIcons/Congregational Mosque
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Coral Lighthouse
+BuildingIcons/Cothon
   rotate: false
   xy: 328, 104
   size: 100, 100
@@ -3304,7 +3304,7 @@ BuildingIcons/Marble Temple
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Marib Dam
+BuildingIcons/Great Canal of Venice 
   rotate: false
   xy: 760, 220
   size: 100, 100
