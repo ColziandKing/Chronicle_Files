@@ -73,7 +73,7 @@
         "name": "Egypt",
         "leaderName": "Ramesses II",
         "adjective": ["Egyptian"],
-        "startBias": ["Avoid [Coast]","Desert"],
+        "startBias": ["Avoid [Coast]","Avoid [Tundra]","Desert"],
         "preferredVictoryType": "Cultural",
         "startIntroPart1": "We greet thee, oh great Ramesses, Pharaoh of Egypt, who causes the sun to rise and the Nile to flow, and who blesses his fortunate people with all the good things of life! Oh great lord, from time immemorial your people lived on the banks of the Nile river, where they brought writing to the world, and advanced mathematics, sculpture, and architecture. Thousands of years ago they created the great monuments which still stand tall and proud.",
         "startIntroPart2": "Oh, Ramesses, for uncounted years your people endured, as other petty nations around them have risen and then fallen into dust. They look to you to lead them once more into greatness. Can you honor the gods and bring Egypt back to her rightful place at the very center of the world? Can you build a civilization that will stand the test of time?",
@@ -88,7 +88,8 @@
         "innerColor": [98,10,210],
         "uniqueName": "Monument Builders",
         "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]","Starts with [Monumentalism] adopted",
-			        "Gain [150]-[250] [Science] <upon discovering [Writing] technology>",
+			        "Gain [150]-[250] [Science] <upon discovering [Writing] technology>","[+54]% Production when constructing [Lighthouse] buildings [in all cities]","[+54]% Production when constructing [Harbor] buildings [in all cities]",
+		"[+66]% Production when constructing [Seaport] buildings [in all cities]","[+66]% Production when constructing [Hydro Plant] buildings [in all cities]",
 					"Provides a [Burial Tomb] in your first [5] cities for free <upon discovering [Masonry] technology>"],
         "cities": [
             "Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Akhetaten","Hieraconpolis","Abydos",
@@ -529,7 +530,8 @@
 
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Achaemenid Legacy",
-		"uniques": ["[+50]% Golden Age length", "[+2] Movement <for [All] units> <during a Golden Age>", "[+20]% Strength <for [All] units> <during a Golden Age>", "Free [Persian Immortal] appears <during We Love The King Day>", "Free [Persian Immortal] appears <upon expending a [Persian Immortal] unit>"],
+		"uniques": ["[+50]% Golden Age length", "[+2] Movement <for [All] units> <during a Golden Age>", "[+20]% Strength <for [All] units> <during a Golden Age>", 
+	"[+1 Science] from every [{improved} {Strategic resource}]","Free [Persian Immortal] appears <during We Love The King Day>", "Free [Persian Immortal] appears <upon expending a [Persian Immortal] unit>"],
 		"cities": ["Persepolis","Parsagadae","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
 			"Ghulaman","Zohak","Istakhr","Jinjan","Borazjan","Herat","Dakyanus","Bampur","Turengtepe","Rey","Shiraz",
 			"Thuspa","Hasanlu","Gabae","Merv","Behistun","Kandahar","Altintepe","Bunyan","Charsadda","Uratyube",
